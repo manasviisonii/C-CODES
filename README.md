@@ -1,4 +1,4 @@
-C Programming Projects and Exercises 🖥️✨
+# C Programming Projects and Exercises 🖥️✨
 
 This repository contains my collection of C programming projects, exercises, and algorithms. Each folder explores different concepts and techniques in C, from fundamental syntax to more advanced programming practices.
 
